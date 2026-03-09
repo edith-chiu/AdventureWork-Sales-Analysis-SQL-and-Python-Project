@@ -1,14 +1,14 @@
 # AdventureWork-Sales-Analysis-SQL-and-Python-Project
 
-AdventureWorks Sales Analysis (SQL & Python)
-Project Overview
+## AdventureWorks Sales Analysis (SQL & Python)
+## Project Overview
 
 This project analyses the AdventureWorks sales database using SQL and Python to explore business performance, customer behaviour, and product trends. The objective is to demonstrate practical data analysis skills by querying relational data, performing exploratory analysis, and generating insights that could support business decision-making.
 
 The project combines SQL for data extraction and transformation with Python for further analysis and visualisation.
 
 
-Business Questions:
+## Business Questions:
 
 The analysis focuses on answering several key business questions:
 
@@ -20,11 +20,11 @@ Which regions or customer groups contribute the most revenue?
 
 What trends can be observed in customer purchasing behaviour?
 
-Dataset:
+## Dataset:
 
 The analysis uses the AdventureWorks database, a widely used sample dataset representing a fictional manufacturing and retail company.
 
-Key data tables include:
+## Key data tables include:
 
 Sales orders
 
@@ -38,7 +38,7 @@ Sales territories
 
 These tables were queried using SQL to extract relevant information for analysis.
 
-Analysis Process
+## Analysis Process
 1. Data Extraction (SQL)
 
 SQL queries were written in SQL Server Management Studio (SSMS) to explore the relational database and extract relevant datasets.
@@ -65,7 +65,7 @@ Exploratory data analysis
 
 Data visualisation
 
-Key Insights
+## Key Insights
 
 Some example insights derived from the analysis include:
 
@@ -77,7 +77,7 @@ Historical sales trends highlight periods of increased demand for particular pro
 
 These findings demonstrate how data analysis can support business performance monitoring and decision-making.
 
-Tools Used:
+## Tools Used:
 
 SQL Server Management Studio (SSMS)
 
@@ -89,7 +89,9 @@ Pandas
 
 Data visualisation
 
-Skills Demonstrated:
+--- 
+
+## Skills Demonstrated:
 
 SQL querying and relational database analysis
 
